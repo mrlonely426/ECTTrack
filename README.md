@@ -28,7 +28,7 @@ python tracking/train.py --script ecttrack --config ecttrack_256_128x1_ep300 --s
 * The training logs will be saved under `output/logs/` folder
 
 ## Pretrained tracker model
-The pretrained tracker model can be found 
+The pretrained tracker model can be found [here](https://pan.baidu.com/s/1vTGiYuhgifriWgeGKL0JSQ) pswd:j4hx.
 
 ## Tracker Evaluation
 
